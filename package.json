@@ -1,0 +1,15 @@
+{
+  "name": "meadowlark_travel_app",
+  "version": "1.0.0",
+  "description": "The site created in the book Web Development with Node and Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateo Robayo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  }
+}
